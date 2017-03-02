@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
-/* This
+/* Thi
 is
 a comment! */
 
@@ -123,6 +123,7 @@ img, video, audio {
 }
 
 /* Sections */
+
 header {
   position: fixed;
   top: 0;
